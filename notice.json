@@ -1,17 +1,18 @@
 {
   "show": true,
-  "noticeVersion": 2,
+  "noticeVersion": 1,
 
   "title": "গানের অনুরোধ",
   "message": "আপনার পছন্দের গানের অনুরোধ আমাদের পাঠাতে পারেন।",
 
   "button": "ঠিক আছে",
 
+  "showEmailButton": false,
   "emailButton": "📧 গানের অনুরোধ পাঠান",
   "email": "app.feedback.suggest@gmail.com",
 
-  "forceUpdate": true,
-  "minVersion": 2,
+  "forceUpdate": false,
+  "minVersion": 1,
 
   "maintenance": false,
   "maintenanceMessage": "সার্ভার আপডেটের কাজ চলছে।"
