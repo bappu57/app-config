@@ -1,13 +1,13 @@
 {
   "show": true,
-  "noticeVersion": 1,
+  "noticeVersion": 2,
 
   "title": "নোটিশ!",
   "message": "এই অ্যাপটির ২য় ভার্সন পাবলিশ হয়েছে দয়াকরে আপডেট করে নিবেন। ",
 
   "button": "ঠিক আছে",
 
-  "showEmailButton": true,
+  "showEmailButton": false,
   "emailButton": "📧 গানের অনুরোধ পাঠান",
   "email": "app.feedback.suggest@gmail.com",
 
