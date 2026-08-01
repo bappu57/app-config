@@ -1,6 +1,6 @@
 {
   "show": true,
-  "noticeVersion": 1,
+  "noticeVersion": 2,
 
   "title": "গানের অনুরোধ",
   "message": "আপনার পছন্দের গানের অনুরোধ আমাদের পাঠাতে পারেন।",
@@ -10,8 +10,8 @@
   "emailButton": "📧 গানের অনুরোধ পাঠান",
   "email": "app.feedback.suggest@gmail.com",
 
-  "forceUpdate": false,
-  "minVersion": 1,
+  "forceUpdate": true,
+  "minVersion": 2,
 
   "maintenance": false,
   "maintenanceMessage": "সার্ভার আপডেটের কাজ চলছে।"
