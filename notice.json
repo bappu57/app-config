@@ -1,11 +1,18 @@
 {
   "show": true,
-  "version": 3,
-  "title": "দৃষ্টি আকর্ষণ!",
-  "message": "আপনার পছন্দের শিল্পীর গানের জন্য গানের প্রথম লাইন লিখে আমাদের তালিকা পাঠান। app.feedback.suggest@gmail.com",
+  "noticeVersion": 1,
+
+  "title": "গানের অনুরোধ",
+  "message": "আপনার পছন্দের গানের অনুরোধ আমাদের পাঠাতে পারেন।",
+
   "button": "ঠিক আছে",
 
+  "emailButton": "📧 গানের অনুরোধ পাঠান",
+  "email": "songs@yourmail.com",
+
   "forceUpdate": false,
+  "minVersion": 1,
+
   "maintenance": false,
-  "minVersion": 1
+  "maintenanceMessage": "সার্ভার আপডেটের কাজ চলছে।"
 }
