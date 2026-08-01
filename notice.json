@@ -1,13 +1,13 @@
 {
   "show": true,
-  "noticeVersion": 3,
+  "noticeVersion": 1,
 
-  "title": "নোটিশ!",
-  "message": "এই অ্যাপটির ২য় ভার্সন পাবলিশ হয়েছে দয়াকরে আপডেট করে নিবেন। ",
+  "title": "প্রিয়জন,❤️",
+  "message": "ক্লোজ টেস্টে অংশ নেওয়ার জন্য আন্তরিক ধন্যবাদ। অনুরোধ, আগামী ১৫ দিন প্রতিদিন অন্তত একবার অ্যাপটি ভিজিট করুন। কোনো সমস্যা বা পরামর্শ থাকলে আমাদের জানান। ধন্যবাদ। ",
 
   "button": "ঠিক আছে",
 
-  "showEmailButton": true,
+  "showEmailButton": false,
   "emailButton": "📧 গানের অনুরোধ পাঠান",
   "email": "app.feedback.suggest@gmail.com",
 
