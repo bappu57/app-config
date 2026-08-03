@@ -10,7 +10,7 @@
   "email": "app.feedback.suggest@gmail.com",
 
   "forceUpdate": false,
-  "minVersion": 2,
+  "minVersion": 1,
   "updateTitle": "নতুন সংস্করণ উপলব্ধ",
   "updateMessage": "নতুন ফিচার ও উন্নতির জন্য অনুগ্রহ করে অ্যাপটি আপডেট করুন।",
   "updateButton": "এখনই আপডেট করুন",
