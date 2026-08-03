@@ -9,8 +9,8 @@
   "emailButton": "📧 গানের অনুরোধ পাঠান",
   "email": "app.feedback.suggest@gmail.com",
 
-  "forceUpdate": false,
-  "minVersion": 1,
+  "forceUpdate": true,
+  "minVersion": 2,
   "updateTitle": "নতুন সংস্করণ উপলব্ধ",
   "updateMessage": "নতুন ফিচার ও উন্নতির জন্য অনুগ্রহ করে অ্যাপটি আপডেট করুন।",
   "updateButton": "এখনই আপডেট করুন",
