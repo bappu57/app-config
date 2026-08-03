@@ -1,10 +1,8 @@
 {
   "show": true,
   "noticeVersion": 1,
-
   "title": "প্রিয়জন,❤️",
   "message": "ক্লোজ টেস্টে অংশ নেওয়ার জন্য আন্তরিক ধন্যবাদ। অনুরোধ, আগামী ১৫ দিন প্রতিদিন অন্তত একবার অ্যাপটি ভিজিট করুন। কোনো সমস্যা বা পরামর্শ থাকলে আমাদের জানান। ধন্যবাদ। ",
-
   "button": "ঠিক আছে",
 
   "showEmailButton": false,
@@ -13,6 +11,9 @@
 
   "forceUpdate": false,
   "minVersion": 1,
+  "updateTitle": "নতুন সংস্করণ উপলব্ধ",
+  "updateMessage": "নতুন ফিচার ও উন্নতির জন্য অনুগ্রহ করে অ্যাপটি আপডেট করুন।",
+  "updateButton": "এখনই আপডেট করুন",
 
   "maintenance": false,
   "maintenanceMessage": "সার্ভার আপডেটের কাজ চলছে।"
