@@ -1,5 +1,5 @@
 {
-  "show": true,
+  "show": false,
   "noticeVersion": 2,
   "title": "প্রিয়জন,❤️",
   "message": "অ্যাপ টেস্টে অংশ নেওয়ার জন্য আন্তরিক ধন্যবাদ। অনুরোধ, আগামী ১৫ দিন প্রতিদিন অন্তত একবার অ্যাপটি ভিজিট করুন। কোনো সমস্যা বা পরামর্শ থাকলে আমাদের জানান। ধন্যবাদ। ",
@@ -9,7 +9,7 @@
   "emailButton": "📧 গানের অনুরোধ পাঠান",
   "email": "app.feedback.suggest@gmail.com",
 
-  "forceUpdate": false,
+  "forceUpdate": true,
   "minVersion": 1,
   "updateTitle": "নতুন সংস্করণ উপলব্ধ",
   "updateMessage": "নতুন ফিচার ও উন্নতির জন্য অনুগ্রহ করে অ্যাপটি আপডেট করুন।",
