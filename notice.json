@@ -21,8 +21,8 @@
   "retryButton": "আবার চেষ্টা করুন",
   "exitButton": "অ্যাপ বন্ধ করুন"
 
-"adsEnabled": false,
-"bannerEnabled": false,
+"adsEnabled": true,
+"bannerEnabled": true,
 "nativeEnabled": false,
 "interstitialEnabled": false,
 "appOpenEnabled": false
