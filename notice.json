@@ -1,6 +1,6 @@
 {
   "show": true,
-  "noticeVersion": 2,
+  "noticeVersion": 1,
   "title": "প্রিয়জন,❤️",
   "message": "অ্যাপ টেস্টে অংশ নেওয়ার জন্য আন্তরিক ধন্যবাদ। অনুরোধ, আগামী ১৫ দিন প্রতিদিন অন্তত একবার অ্যাপটি ভিজিট করুন। কোনো সমস্যা বা পরামর্শ থাকলে আমাদের জানান। ধন্যবাদ। ",
   "button": "ঠিক আছে",
@@ -21,8 +21,8 @@
   "retryButton": "আবার চেষ্টা করুন",
   "exitButton": "অ্যাপ বন্ধ করুন"
 
-"adsEnabled": false,
-"bannerEnabled": false,
+"adsEnabled": true,
+"bannerEnabled": true,
 "nativeEnabled": false,
 "interstitialEnabled": false,
 "appOpenEnabled": false
