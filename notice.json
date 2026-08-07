@@ -15,15 +15,15 @@
   "updateMessage": "নতুন ফিচার ও উন্নতির জন্য অনুগ্রহ করে অ্যাপটি আপডেট করুন।",
   "updateButton": "এখনই আপডেট করুন",
 
-  "internetCheck": true,
+  "internetCheck": false,
   "noInternetTitle": "ইন্টারনেট সংযোগ নেই",
   "noInternetMessage": "ইন্টারনেট সংযোগ পাওয়া যায়নি। সংযোগ ফিরে এলে এই বার্তাটি স্বয়ংক্রিয়ভাবে বন্ধ হয়ে যাবে।",
   "retryButton": "আবার চেষ্টা করুন",
   "exitButton": "অ্যাপ বন্ধ করুন",
 
 "adsEnabled": false,
-"bannerEnabled": true,
+"bannerEnabled": false,
 "nativeEnabled": false,
-"interstitialEnabled": true,
+"interstitialEnabled": false,
 "appOpenEnabled": false
 }
