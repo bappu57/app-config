@@ -24,6 +24,6 @@
 "adsEnabled": true,
 "bannerEnabled": true,
 "nativeEnabled": false,
-"interstitialEnabled": false,
+"interstitialEnabled": true,
 "appOpenEnabled": false
 }
