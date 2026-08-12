@@ -6,7 +6,7 @@
   "button": "ঠিক আছে",
 
   "showEmailButton": true,
-  "emailButton": "📧 আপনার পছন্দের গানের জন্য মেইল করুন",
+  "emailButton": "📧 পছন্দের গানের জন্য মেইল করুন।",
   "email": "app.feedback.suggest@gmail.com",
 
   "forceUpdate": false,
