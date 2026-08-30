@@ -1,16 +1,16 @@
 {
   "show": true,
-  "noticeVersion": 15,
-  "title": "প্রিয় অ্যাপ টেস্টার,❤️",
-  "message": " আমাদের অ্যাপের ১৫ দিনের Closed Testing পর্ব সফলভাবে সম্পন্ন হয়েছে। আপনাদের প্রতি আন্তরিক কৃতজ্ঞতা।",
+  "noticeVersion": 16,
+  "title": "প্রপ্রিয় ইউজার,",
+  "message": "আপনার পছন্দের গানটি LyriBook-এ নেই? শিল্পী বা গানের নাম লিখে আমাদের মেইল করুন।",
   "button": "ঠিক আছে",
 
   "showEmailButton": true,
   "emailButton": "📧 পছন্দের গানের জন্য মেইল করুন।",
   "email": "app.feedback.suggest@gmail.com",
 
-  "forceUpdate": false,
-  "minVersion": 1,
+  "forceUpdate": true,
+  "minVersion": 2,
   "updateTitle": "নতুন সংস্করণ উপলব্ধ",
   "updateMessage": "নতুন ফিচার ও উন্নতির জন্য অনুগ্রহ করে অ্যাপটি আপডেট করুন।",
   "updateButton": "এখনই আপডেট করুন",
